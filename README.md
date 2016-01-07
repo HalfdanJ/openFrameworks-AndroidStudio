@@ -1,3 +1,5 @@
+**Android Studio is now officially supported in [openFrameworks 090](http://openframeworks.cc/setup/android-studio/)**
+
 This is a set of project files to make it possible to use OpenFrameworks with Android Studio.
 
 # Installation
